@@ -7,7 +7,7 @@ I like building systems that sit at the intersection of AI and real applications
 
 Most of my work revolves around experimenting with different AI architectures and turning them into usable products. I enjoy figuring out how things work under the hood and then pushing them into something practical and interactive.
 
----
+
 
 ## 🧠 Know Me
 
@@ -17,7 +17,7 @@ Computer vision and language-based systems are areas I naturally gravitate towar
 
 Alongside AI, I also work on full-stack development to actually bring these models into usable applications, connecting frontend, backend, and model pipelines into a single working system.
 
----
+
 
 ## 🛠️ Skills
 
@@ -32,7 +32,7 @@ Alongside AI, I also work on full-stack development to actually bring these mode
 **Concepts:** DSA, REST APIs, Model Optimization, Real-time AI Systems, Full-Stack Development  
 
 
----
+
 
 ## 🚧 Currently Building
 
@@ -40,7 +40,7 @@ See Through AI — a real-time assistive intelligence system focused on improvin
 
 I’m iterating on it daily, testing different CNN architectures and fine-tuning detection pipelines to improve accuracy without compromising speed. The system currently runs at ~25 FPS using YOLO-based models, and I’m actively pushing improvements in stability, latency, and real-world reliability.
 
----
+
 
 ## 🚀 What I Care About
 
@@ -48,7 +48,7 @@ Building AI systems that are actually useful in real life — not just accurate,
 
 I enjoy working on ideas where AI meets usability, especially in areas like vision systems, language interaction, and intelligent automation.
 
----
+
 
 ## 🌐 Socials
 
