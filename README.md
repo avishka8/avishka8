@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Avishka
+<h1 align="center">Hi, I'm Avishka!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Problem+Solver;AI+%26+ML+Explorer;Tech+Enthusiast+💻" alt="Typing SVG" />
+</p>
 
 I like building systems that sit at the intersection of AI and real applications — where models don’t just stay in notebooks but actually interact with users, make decisions, and respond in real time.
 
