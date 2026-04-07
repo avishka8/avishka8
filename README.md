@@ -6,25 +6,8 @@
 I like building systems that sit at the intersection of AI and real applications 
 where models don’t just stay in notebooks but actually interact with users, 
 make decisions, and respond in real time.
-
-Most of my work revolves around experimenting with different AI architectures and 
-turning them into usable products. I enjoy figuring out how things work under the 
-hood and then pushing them into something practical and interactive.
-
-
-
-## 🧠 Know Me
-
-I spend most of my time working around machine learning, deep learning,
-and generative AI systems. I’ve explored architectures like CNNs, RNNs, LSTMs, 
-Transformers, and newer ideas like KAN-based networks, mainly focusing 
-on performance, efficiency, and real-world behavior.
-
-Alongside AI, I also work on full-stack development to actually bring these models
-into usable applications, connecting frontend, backend, and model pipelines
-into a single working system.
-
-
+I work across machine learning, deep learning, and generative AI, experimenting with CNNs, RNNs, LSTMs, Transformers, and KAN-based networks. I’m interested in how models behave in the real world — how they think, fail, adapt, and perform under real constraints.
+Alongside AI, I do full-stack development to stitch everything together into complete systems — frontend, backend, and inference pipelines working as one.
 
 ## 🛠️ Skills
 
