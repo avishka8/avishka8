@@ -3,19 +3,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Problem+Solver;AI+%26+ML+Explorer;Tech+Enthusiast+💻" alt="Typing SVG" />
 </p>
 
-I like building systems that sit at the intersection of AI and real applications — where models don’t just stay in notebooks but actually interact with users, make decisions, and respond in real time.
+I like building systems that sit at the intersection of AI and real applications 
+where models don’t just stay in notebooks but actually interact with users, 
+make decisions, and respond in real time.
 
-Most of my work revolves around experimenting with different AI architectures and turning them into usable products. I enjoy figuring out how things work under the hood and then pushing them into something practical and interactive.
+Most of my work revolves around experimenting with different AI architectures and 
+turning them into usable products. I enjoy figuring out how things work under the 
+hood and then pushing them into something practical and interactive.
 
 
 
 ## 🧠 Know Me
 
-I spend most of my time working around machine learning, deep learning, and generative AI systems. I’ve explored architectures like CNNs, RNNs, LSTMs, Transformers, and newer ideas like KAN-based networks, mainly focusing on performance, efficiency, and real-world behavior.
+I spend most of my time working around machine learning, deep learning,
+and generative AI systems. I’ve explored architectures like CNNs, RNNs, LSTMs, 
+Transformers, and newer ideas like KAN-based networks, mainly focusing 
+on performance, efficiency, and real-world behavior.
 
-Computer vision and language-based systems are areas I naturally gravitate toward, especially when they involve real-time processing or user interaction.
-
-Alongside AI, I also work on full-stack development to actually bring these models into usable applications, connecting frontend, backend, and model pipelines into a single working system.
+Alongside AI, I also work on full-stack development to actually bring these models
+into usable applications, connecting frontend, backend, and model pipelines
+into a single working system.
 
 
 
@@ -36,17 +43,14 @@ Alongside AI, I also work on full-stack development to actually bring these mode
 
 ## 🚧 Currently Building
 
-See Through AI — a real-time assistive intelligence system focused on improving how machines understand and describe the visual world for accessibility use cases.
+See Through AI — a real-time assistive intelligence system focused on improving 
+how machines understand and describe the visual world for accessibility use cases.
 
-I’m iterating on it daily, testing different CNN architectures and fine-tuning detection pipelines to improve accuracy without compromising speed. The system currently runs at ~25 FPS using YOLO-based models, and I’m actively pushing improvements in stability, latency, and real-world reliability.
+I’m iterating on it daily, testing different CNN architectures and fine-tuning
+detection pipelines to improve accuracy without compromising speed. The system
+currently runs at ~25 FPS using YOLO-based models, and I’m actively pushing 
+improvements in stability, latency, and real-world reliability.
 
-
-
-## 🚀 What I Care About
-
-Building AI systems that are actually useful in real life — not just accurate, but fast, interactive, and reliable enough to run in real-world environments.
-
-I enjoy working on ideas where AI meets usability, especially in areas like vision systems, language interaction, and intelligent automation.
 
 
 
@@ -56,6 +60,4 @@ I enjoy working on ideas where AI meets usability, especially in areas like visi
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/avishka8)  
 [![Email](https://img.shields.io/badge/Email-avishka1108%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:avishka1108@gmail.com)  
 
----
 
--->
