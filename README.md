@@ -3,11 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Problem+Solver;AI+%26+ML+Explorer;Tech+Enthusiast+💻" alt="Typing SVG" />
 </p>
 
-I like building systems that sit at the intersection of AI and real applications 
-where models don’t just stay in notebooks but actually interact with users, 
-make decisions, and respond in real time.
-I work across machine learning, deep learning, and generative AI, experimenting with CNNs, RNNs, LSTMs, Transformers, and KAN-based networks. I’m interested in how models behave in the real world — how they think, fail, adapt, and perform under real constraints.
-Alongside AI, I do full-stack development to stitch everything together into complete systems — frontend, backend, and inference pipelines working as one.
+👋 I build AI systems that go beyond notebooks and run as real-time, user-facing applications.  
+💡 Strong focus on **machine learning**, **deep learning**, and **generative AI**, working with CNNs, RNNs, LSTMs, Transformers, and KAN networks.  
+⚡ I enjoy turning models into complete end-to-end systems by combining AI with full-stack development (frontend, backend, and inference pipelines).
 
 ## 🛠️ Skills
 
