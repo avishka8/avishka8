@@ -9,13 +9,13 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
+**Languages:** Python, JavaScript, SQL, HTML, CSS, TypeScript
 
 **AI / ML:** Machine Learning, Deep Learning, CNN, RNN, LSTM, Transformers, Computer Vision, NLP, Prompt Engineering  
 
-**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, React, Next.js, Node.js, Express.js  
+**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, React, Node.js, React Native
 
-**Databases:** MongoDB, MySQL, Vector Databases  
+**Databases:** MongoDB, SQL, Vector Databases  
 
 **Concepts:** DSA, REST APIs, Model Optimization, Real-time AI Systems, Full-Stack Development  
 
