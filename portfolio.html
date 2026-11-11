@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Avishka Srivastava – AI/ML Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  color-scheme: dark;
+  --bg:#0c0d10; --surface:#14161b; --line:#23262e; --text:#e9eaee; --muted:#9a9eab; --accent:#9db0ff;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px);height:100%}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--text);font:400 16px/1.65 "Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+main{max-width:720px;margin:0 auto;padding:72px 24px 48px}
+h1{font-size:clamp(2.4rem,8vw,3.6rem);line-height:1.05;margin:0 0 12px;font-weight:800;letter-spacing:-0.03em;animation:rise .7s ease both}
+.role{color:var(--accent);font-weight:500;margin:0 0 24px}
+.lead{color:var(--muted);max-width:62ch;margin:0 0 28px}
+.links{display:flex;flex-wrap:wrap;gap:10px}
+.links a{border:1px solid var(--line);padding:8px 16px;border-radius:999px;font-size:.92rem;transition:border-color .2s,color .2s}
+.links a:hover{border-color:var(--accent);color:var(--accent)}
+section{margin-top:72px}
+h2{font-size:1.5rem;margin:0 0 24px;font-weight:700;letter-spacing:-0.01em}
+.project{padding:24px 0;border-top:1px solid var(--line)}
+.project:last-child{border-bottom:1px solid var(--line)}
+.project h3{margin:0 0 4px;font-size:1.15rem;font-weight:700}
+.stack{color:var(--accent);font-size:.88rem;margin:0 0 10px}
+.project p{margin:0 0 12px;color:var(--muted);max-width:64ch}
+.project ul{margin:0 0 12px;padding-left:18px;color:var(--muted);max-width:64ch}
+.project li{margin-bottom:6px}
+.plinks{display:flex;gap:18px;font-size:.92rem}
+.plinks a{border-bottom:1px solid var(--line);padding-bottom:1px}
+.plinks a:hover{color:var(--accent);border-color:var(--accent)}
+.result{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:4px 0 14px}
+.result div{background:var(--surface);padding:12px 14px;font-size:.85rem;color:var(--muted)}
+.result b{display:block;color:var(--text);font-size:1rem;font-weight:700}
+.result b span{color:var(--accent)}
+.skills{display:grid;gap:18px}
+.skills h3{margin:0 0 6px;font-size:.95rem;font-weight:700}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips span{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:4px 12px;font-size:.88rem;color:var(--muted)}
+.row{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:10px 0}
+.row span{color:var(--muted)}
+.row a:hover{color:var(--accent)}
+footer{margin-top:80px;color:var(--muted);font-size:.92rem}
+footer a{color:var(--text);border-bottom:1px solid var(--line)}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@media (max-width:520px){.result{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){h1{animation:none}*{transition:none!important}}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Avishka Srivastava</h1>
+    <p class="role">AI/ML Engineer</p>
+    <p class="lead">I build and evaluate AI systems, from transformer research to automated, deployed applications. I work mostly in Python and full-stack JavaScript, with a solid grounding in data structures and algorithms in Java.</p>
+    <nav class="links" aria-label="Contact links">
+      <a href="mailto:avishka1108@gmail.com">Email</a>
+      <a href="https://github.com/avishka8" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/avishka-srivastava/" target="_blank" rel="noopener">LinkedIn</a>
+    </nav>
+  </header>
+
+  <section id="projects">
+    <h2>Featured projects</h2>
+
+    <article class="project">
+      <h3>KAN-based Transformer</h3>
+      <p class="stack">Python / PyTorch / Transformers</p>
+      <p>Independent research on whether Kolmogorov–Arnold Networks can replace the feed-forward layers in a Transformer. The KAN version beat the baseline on every metric.</p>
+      <div class="result">
+        <div>Accuracy<b><span>99.38%</span> vs 99.16%</b></div>
+        <div>Test loss<b><span>0.0233</span> vs 0.0311</b></div>
+        <div>Perplexity<b><span>1.0236</span> vs 1.0316</b></div>
+      </div>
+      <div class="plinks"><a href="https://github.com/avishka8/Transformer-KAN" target="_blank" rel="noopener">Code</a></div>
+    </article>
+
+    <article class="project">
+      <h3>The Fashion Business</h3>
+      <p class="stack">Gemini API / GitHub Actions / Astro / Vercel</p>
+      <p>An automated news pipeline for India's fashion industry. It collects stories, groups duplicates and writes LLM summaries with no manual publishing. GitHub Actions runs it on a schedule, and an Astro site on Vercel updates from the output.</p>
+      <div class="plinks">
+        <a href="https://the-fashion-business.vercel.app/" target="_blank" rel="noopener">Live site</a>
+        <a href="https://github.com/avishka8/The-Fashion-Business" target="_blank" rel="noopener">Code</a>
+      </div>
+    </article>
+
+    <article class="project">
+      <h3>RevyBiz</h3>
+      <p class="stack">Gemini API / Tailwind CSS / Vercel / Render</p>
+      <p>A SaaS tool that reads customer reviews and pulls out sentiment and recurring complaints as business insights. It also drafts replies to reviews and includes Revy, a chatbot that answers questions about your data.</p>
+      <div class="plinks"><a href="https://github.com/avishka8/Revy-Biz" target="_blank" rel="noopener">Code</a></div>
+    </article>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div><h3>Languages</h3><div class="chips"><span>Python</span><span>Java</span><span>JavaScript</span><span>SQL</span><span>HTML</span><span>CSS</span></div></div>
+      <div><h3>AI and ML</h3><div class="chips"><span>PyTorch</span><span>Hugging Face</span><span>LangChain</span><span>RAG</span><span>LLMs</span><span>NLP</span><span>Computer Vision</span><span>CNN, RNN, LSTM, GANs</span></div></div>
+      <div><h3>Web</h3><div class="chips"><span>React.js</span><span>Next.js</span><span>Node.js</span><span>Express</span><span>Astro</span><span>Tailwind CSS</span><span>REST APIs</span></div></div>
+      <div><h3>Tools</h3><div class="chips"><span>Git</span><span>GitHub Actions</span><span>Vercel</span><span>Render</span><span>Gemini API</span></div></div>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <div class="row"><div>B.Tech, Computer Science and Engineering (AI &amp; ML)<br><span>Vellore Institute of Technology, Bhopal</span></div><span>2022 – 2026</span></div>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <div class="row"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=91F1F9F4B63D82BABC04212F9F54D31BA3B6B875513226E439A1A426EF8FE0A9" target="_blank" rel="noopener">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></div>
+    <div class="row"><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F3E32454FC02F52614578F75DBA36F83275E3CC2C167F1B2C2437FEFB0FD271F" target="_blank" rel="noopener">Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</a></div>
+  </section>
+
+  <footer>Want to work together? Write to <a href="mailto:avishka1108@gmail.com">avishka1108@gmail.com</a></footer>
+</main>
+</body>
+</html>
